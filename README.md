@@ -57,8 +57,3 @@ bofa transfer --op-code AT_SMT --payee-id <account-identifier> --amount 500
 bofa transfer --op-code AT_SMT --display-name 'SOME CORP LLC' --payee-alias-token somecorpllc@gmail.com --amount 500
 # transfer $500 to Zelle recipient
 ```
-
-
-## Author
-
-project-ghost
