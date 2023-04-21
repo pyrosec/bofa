@@ -1,0 +1,18 @@
+
+{
+"browserLanguage": "en-US",   
+"channel": "MBDA",
+"channelLOB": "SMRTPH",
+"consent": "optedIn",
+"firstTimeLaunch": "true",
+"isExplicitConsent": "false",
+"mmid": "",
+"mobileSequenceNumber": 1,
+"originationURL": "",
+"screenHeight": "-1",
+"screenWidth": "-1",
+"timezone": "-660",
+"title": "MDA",
+"url": "bofa://mservice.bankofamerica.com",
+"userAgent": "Mozilla/5.0 (Linux; U; Android 11; en-US) MDA/22.09.04"
+}

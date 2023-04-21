@@ -1,0 +1,24 @@
+{
+    "ManageOfferStateRequest": {
+        "channel": "Mobile App",
+        "command": "MarkOfferServed",
+        "deals": [
+            {
+                "checksum": "M0TJtQfUNiui9Tq9qmCyI-V6XMnqjc7kQSf8Q6jIa2fcU26ayrcXzZcTx00x9nFnaYxH9qcTPiIlY-qokLbF13GOujxGIVI8wehpRh43tBweaO78p1rHwNRsr-IUkZcvCt5y1tEqDFTxQJbdJY1Q4Q",
+                "dealId": "cdlx-1000015926",
+                "transactionId": "0"
+            },
+            {
+                "checksum": "M0TJtQfUNiui9Tq9qmCyI4YOWs-Xi-NUae2Vtc77-c3OBTjHMUtLBQCww7nvKfa4WhK6vDOa84I6FdDoGTcr3wHFeWElRkf8q-WNz0WPCyxmYF7IyUwc_x8nEYrXavGuGB2Ll-8SsW8RkbQx2FmDvA",
+                "dealId": "cdlx-1000015902",
+                "transactionId": "0"
+            },
+            {
+                "checksum": "M0TJtQfUNiui9Tq9qmCyIyskz_K1z0GAcow-8nBdDJWq5BE5XQQLPVeZjFLJ7Ci49Y7CHNFdWBNbh1jxavWZEcCgdoa59rePgISiFP0LN6JutyhVCuPkDvOV3f-rmXVLmS3o-Oiwvm8w8VpcXzJt1w",
+                "dealId": "cdlx-1000015999",
+                "transactionId": "0"
+            }
+        ],
+        "location": "WidgetAccountOverview"
+    }
+}

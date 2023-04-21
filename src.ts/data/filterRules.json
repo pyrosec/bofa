@@ -1,0 +1,31 @@
+{
+    "filterRules": [
+        {
+            "name": "PLATFORM",
+            "value": "CONSUMER"
+        },
+        {
+            "name": "BRAND",
+            "value": "BOA"
+        },
+        {
+            "name": "CHANNEL",
+            "value": "MDA"
+        }
+    ],
+    "processRules": [
+        {
+            "name": "SourceChannel",
+            "value": "VMA"
+        },
+        {
+            "name": "Profile",
+            "value": "A01"
+        },
+        {
+            "name": "AuthenticationContext",
+            "value": "SGNONCHLNG"
+        }
+    ]
+    
+}

@@ -1,0 +1,8 @@
+node_modules
+.vscode
+*.swp
+*.swo
+reference.js
+moreref.js
+heatmap.txt
+yarn.lock

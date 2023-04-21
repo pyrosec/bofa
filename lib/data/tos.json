@@ -1,0 +1,35 @@
+{
+    "customerConsent": {
+        "acceptedIndicator": true,
+        "channel": "MDA",
+        "locale": "en-US",
+        "termsDocumentId": "E7020ACE-FB98-44A9-941A-467871A279EB",
+        "termsDocumentVersion": "10",
+        "type": "EULA"
+    },
+    "deviceDataSt": "{}",
+    "filterRules": [
+        {
+            "name": "PLATFORM",
+            "value": "CONSUMER"
+        },
+        {
+            "name": "BRAND",
+            "value": "NBAA"
+        },
+        {
+            "name": "CHANNEL",
+            "value": "MDA"
+        },
+        {
+            "name": "FLOW",
+            "value": "SignInIdPwd"
+        }
+    ],
+    "processRules": [
+        {
+            "name": "deviceNotificationSetting",
+            "value": "A"
+        }
+    ]
+}
